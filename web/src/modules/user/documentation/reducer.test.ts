@@ -12,9 +12,9 @@ describe('Documentation reducer', () => {
             title: 'Peatio User API v2',
             description: 'API for Peatio application.',
             contact: {
-                name: 'openware.com',
-                email: 'hello@openware.com',
-                url: 'https://www.openware.com',
+                name: '',
+                email: '',
+                url: '',
             },
             license: {
                 url: 'https://github.com/openware/peatio/blob/master/LICENSE.md',

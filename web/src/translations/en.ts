@@ -119,7 +119,7 @@ export const en = {
     'page.body.landing.header.button2': 'log in',
     'page.body.landing.header.button3': 'register',
 
-    'page.body.landing.marketInfo.title.text1': 'Welcome to Baseapp.',
+    'page.body.landing.marketInfo.title.text1': 'Welcome to SGE-X.',
     'page.body.landing.marketInfo.title.text2': 'Buy, sell and trade digital currency.',
     'page.body.landing.marketInfo.title.button': 'start trading',
 
@@ -131,18 +131,18 @@ export const en = {
     'page.body.landing.platformInfo.item.third.title': 'Countries supported',
 
     'page.body.landing.register.item.title': 'No matter your experience level',
-    'page.body.landing.register.item.text': 'Baseapp offers an intuitive interface with real time orderbooks, charting tools, trade history, and a simple order process so you can trade from day one.',
+    'page.body.landing.register.item.text': 'SGE-X offers an intuitive interface with real time orderbooks, charting tools, trade history, and a simple order process so you can trade from day one.',
     'page.body.landing.register.item.button': 'register',
 
-    'page.body.landing.features.title': 'Baseapp platform features',
+    'page.body.landing.features.title': 'SGE-X platform features',
     'page.body.landing.features.features.item1.title': 'Exchange',
     'page.body.landing.features.features.item2.title': 'Order Types',
     'page.body.landing.features.features.item3.title': 'Customizable Interface',
     'page.body.landing.features.features.item4.title': 'Security',
     'page.body.landing.features.features.item5.title': 'Community',
     'page.body.landing.features.features.item6.title': 'Industry leading API',
-    'page.body.landing.features.features.item1.text': 'Baseapp offers the most liquid order book in the world, allowing users to easily exchange Bitcoin, Ethereum, EOS, Litecoin, Ripple, NEO and many other digital assets with minimal slippage.',
-    'page.body.landing.features.features.item2.text': 'Baseapp offers a suite of order types to give traders the tools they need for every scenario. Discover more about our most advanced Algorithmic orders types.',
+    'page.body.landing.features.features.item1.text': 'SGE-X offers the most liquid order book in the world, allowing users to easily exchange Bitcoin, Ethereum, EOS, Litecoin, Ripple, NEO and many other digital assets with minimal slippage.',
+    'page.body.landing.features.features.item2.text': 'SGE-X offers a suite of order types to give traders the tools they need for every scenario. Discover more about our most advanced Algorithmic orders types.',
     'page.body.landing.features.features.item3.text': 'Organize your workspace according to your needs: compose your layout, choose between themes, set up notifications and data preferences.',
     'page.body.landing.features.features.item4.text': 'Security of user information and funds is our first priority. Contact us to learn more about our security features and integrations.',
     'page.body.landing.features.features.item5.text': 'Join a global community that believes in the power of crypto.',
@@ -151,7 +151,7 @@ export const en = {
     'page.body.landing.tradeOnTheGo.item.title': 'Trade on the go',
     'page.body.landing.tradeOnTheGo.item.text1': 'Our platform is optimized for trading on any device.',
     'page.body.landing.tradeOnTheGo.item.text2': 'And you don’t need to download any additional applications.',
-    'page.body.landing.tradeOnTheGo.item.text3': 'All the power of Baseapp cryptocurrency exchange, in the palm of your hand.',
+    'page.body.landing.tradeOnTheGo.item.text3': 'All the power of SGE-X cryptocurrency exchange, in the palm of your hand.',
     'page.body.landing.tradeOnTheGo.item.button': 'let’s try',
 
     'page.body.landing.startTrading.title': 'Start trading now',
@@ -167,7 +167,7 @@ export const en = {
     'page.body.landing.footer.about': 'About us',
     'page.body.landing.footer.community': 'Community',
     'page.body.landing.footer.info': 'Info',
-    'page.body.landing.footer.rights': 'Baseapp © All rights reserved.',
+    'page.body.landing.footer.rights': 'SGE-X © All rights reserved.',
 
     'pagy.body.footer.powered_by': 'Powered by',
 
